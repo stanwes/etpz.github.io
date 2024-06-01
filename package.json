@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "sal.js": "^0.8.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
